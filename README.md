@@ -1,3 +1,20 @@
+# Star Wars App - Prueba Técnica para Lisit
+
+Este proyecto es una aplicación de React para explorar personajes, naves espaciales y planetas del universo de Star Wars. Fue desarrollado como parte de una prueba técnica para Lisit.
+
+## Requisitos Previos
+
+- Node.js (v14 o superior) y npm instalados en tu máquina.
+
+## Instalación
+
+Clona el repositorio e instala las dependencias:
+
+```bash
+git clone https://github.com/CIgnacio-dev/test-swapi-lisit.git
+cd test-swapi-lisit
+npm install
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
